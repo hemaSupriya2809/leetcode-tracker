@@ -1,4 +1,4 @@
-// Last updated: 9/7/2026, 12:37:55 PM
+// Last updated: 9/7/2026, 12:38:26 PM
 1class Solution {
 2    public List<Integer> majorityElement(int[] nums) {
 3        // Create a frequency map to store the count of each element
